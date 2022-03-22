@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OServer", "OServer\OServer.csproj", "{32CA3CA0-1328-4762-99F2-068207EB64C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtomasyonServer", "..\..\..\Desktop\Otomasyon_Server\OtomasyonServer\OtomasyonServer.vdproj", "{47532652-8D75-4A94-ACA2-AC8A398366C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CA3CA0-1328-4762-99F2-068207EB64C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CA3CA0-1328-4762-99F2-068207EB64C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CA3CA0-1328-4762-99F2-068207EB64C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CA3CA0-1328-4762-99F2-068207EB64C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47532652-8D75-4A94-ACA2-AC8A398366C8}.Debug|Any CPU.ActiveCfg = Debug
+		{47532652-8D75-4A94-ACA2-AC8A398366C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDEE01B4-092F-40C7-8881-AC873965CFEC}
+	EndGlobalSection
+EndGlobal
